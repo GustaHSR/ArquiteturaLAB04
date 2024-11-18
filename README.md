@@ -18,6 +18,6 @@
 
 ## Teste
 
-Inicializa a biblioteca e adiciona 3 livros nela. 
-Após isso registra um empréstimo do livro de código 1 e consulta a disponibilidade do livro de código 3, com os 2 códigos existindo para os livros. 
-Depois teste de registro de empréstimo e consulta de disponibilidade com códigos inexistentes
+Inicializa o gestor de tarefas e adiciona 3 tarefas ao gestor.
+Depois atualiza o status da tarefa de código 2 e consulta tarefas de um projeto existente.
+Após isso testa atualizarstatus e consultar tarefas de código e projeto que não existe.
